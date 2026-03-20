@@ -1,0 +1,519 @@
+I have to look at my calendar
+I need to check with my partner
+Let me sleep on it
+I'll get back to you
+I need to think about it
+It depends on how I feel
+I have to see if I'm free
+I need to check my budget
+I'll know more next week
+I'm not sure I can commit right now
+I have to see how work goes
+Let me check with the others first
+I need to see how things pan out
+I have to ask my boss first
+It depends on the weather
+I'll have a better idea closer to the date
+I have to see if I can find a babysitter
+I need to see if my car is working
+I have to check if that's in our budget
+I'll let you know by Friday
+I have to see if my mom needs help that day
+I need to check if my flight lands in time
+I have to see how my back is feeling
+I'm waiting to hear back from someone
+I need to see if the kids have something going on
+I have to check if we have plans already
+Let me see what my sister says
+I need to figure out my work schedule first
+I have to see if that conflicts with something
+I might have a prior commitment
+I need to confirm a few things first
+I have to see if my husband is free too
+I need to look into it a bit more
+I have to check whether I have enough time
+I'll see how the week goes
+I need to get a few things sorted first
+I have to see if my friend is still in town
+I need to check if there's a conflict
+I'm still figuring out my plans for that week
+I have to see how tired I am by then
+I need to make sure I can afford it
+I have to check the train schedule
+I need to see if my dog has a vet appointment
+I'll have a clearer picture after Monday
+I have to see if my roommate needs the car
+I need to figure out childcare first
+I have to check whether I'm working that day
+I need to see if my mom is visiting
+I have to confirm a few things at work
+I'll check and let you know
+I need to see how things are at home
+I have to talk to my wife first
+I need to make sure nothing else comes up
+I have to see if my parents are coming
+I'm not sure about my schedule yet
+I need to check with my flatmate
+I have to see if there's parking
+I need to see if I can swap a shift
+I have to look at the forecast first
+I need to confirm with my friend first
+I have to figure out transportation
+I'll see if I can make it work
+I need to check my energy levels that week
+I have to see if my sister is free
+I need to check if the kids have school
+I have to see if there's a match on that day
+I need to look at flights first
+I have to make sure the dog is taken care of
+I'll have a better sense after the weekend
+I need to see what's happening at work
+I have to check if my car needs servicing
+I need to figure out the timing
+I have to see if that week is busy for us
+I need to check if my parents need anything
+I have to see if I can get the day off
+I need to check if my partner is working
+I have to talk to the kids about it first
+I need to make sure it's not too far
+I have to check the bus times
+I need to see if there's a show that night
+I have to check if my cousin is in town
+I need to see if I can get coverage at work
+I have to figure out the cost first
+I'll see how my week looks
+I need to check whether my brother is free
+I have to see if the weather is good enough
+I need to look at what else is going on
+I have to make sure I'm not on call
+I need to see how I'm feeling by then
+I have to ask at the office
+I need to confirm my travel plans first
+I have to check if we have family stuff
+I need to see if there's a conflict with the kids
+I have to look at my workload first
+I need to see if I can find a ride
+I have to check if there's an event that day
+I need to figure out if I can take time off
+I have to see if my schedule opens up
+I need to check how far in advance I can plan
+I have to see if my grandmother needs help
+I need to figure out if it's worth the trip
+I have to see whether anyone else is going
+I need to look at my deadlines first
+I have to check the school calendar
+I need to see if the timing works for everyone
+I have to ask if it's flexible
+I need to see what the others think
+I have to figure out if I can swing it
+I need to make sure I don't have work travel
+I have to check if we're going away that week
+I need to see if there's anything else planned
+I have to talk to my boss about time off
+I need to look at how much leave I have left
+I have to see if we can get a good deal
+I need to check if it's near public transport
+I have to figure out logistics
+I need to see if my friend group is in
+I have to check if we have a family event
+I need to make sure the timing isn't too tight
+I have to see whether work calms down by then
+I need to see if the kids are off school
+I have to check if my neighbour can watch the dog
+I need to confirm my flight home first
+I have to see how the project is going
+I need to look at what else is on that weekend
+I have to check if I'm feeling up to it
+I need to see if we're hosting anything
+I have to make sure the house stuff is sorted
+I need to figure out if I can leave early
+I have to check whether that's during school holidays
+I need to see what the forecast looks like
+I have to see if my uncle is visiting
+I need to check whether I have enough energy for it
+I have to ask my partner what they think
+I need to see whether there's a later option
+I have to make sure I can get there
+I need to check if the babysitter is available
+I have to look into the price first
+I need to see if that clashes with anything
+I have to figure out if the whole family can join
+I need to check what the refund policy is
+I have to see how the negotiations go at work
+I need to make sure I haven't overcommitted already
+I have to look at how far out it is
+I need to see if it's a good time financially
+I have to check if it's open that day
+I need to see whether my schedule settles down
+I have to figure out if we need tickets in advance
+I need to see if I can take the afternoon off
+I have to check if we're still speaking by then
+I need to see if the timing lines up
+I have to look at whether I have the bandwidth
+I need to check if there's a dress code situation
+I have to make sure I'm not double booked
+I need to see if it requires much preparation
+I have to figure out if I need to drive
+I need to check if I'm on a deadline that week
+I have to see if the venue is accessible
+I need to look at what's happening in my life right now
+I have to check if there are other commitments
+I need to see if I feel social that day
+I have to make sure the timing isn't too rushed
+I need to see if anything else falls through first
+I have to check if we have guests that weekend
+I need to see whether there's someone to cover for me
+I have to figure out if the kids have activities
+I need to check if that's a long weekend
+I have to see if the timing makes sense
+I need to make sure I haven't already said yes to something else
+I have to check if the restaurant takes reservations
+I need to see whether it's worth taking a day off for
+I have to look at whether I'm free that morning
+I need to check if it's too late to join
+I have to see whether the dates still work
+I need to figure out if anyone else is coming
+I have to check whether I'm travelling for work
+I need to see if I can be back in time
+I have to ask if there's flexibility on the date
+I need to check if I'm still in the country
+I have to see how much notice I need to give
+I need to figure out if it's something I'd actually enjoy
+I have to check if my friend group is interested
+I need to see whether my daughter has something on
+I have to look at whether I'm rested enough by then
+I need to check if there's accommodation involved
+I have to see if there are cheaper options
+I need to look at my inbox first
+I have to figure out whether the timing is right
+I need to see if my son has a game that day
+I have to check if I can leave work early enough
+I need to see if there's a way to make it cheaper
+I have to look at how things are going at home
+I need to check if my girlfriend is comfortable with it
+I have to see if we can all go together
+I need to figure out the whole logistics of it
+I have to check if there's a less busy time
+I need to see if the week before is already packed
+I have to make sure I'm not overextending myself
+I need to check if there's enough time to prepare
+I have to see how I'm doing mentally
+I need to look at my energy reserves
+I have to figure out if it's within driving distance
+I need to check whether we've already got plans
+I have to see if my schedule is too packed
+I need to check if I need to dress up for it
+I have to look at whether I'm still recovering from last week
+I need to see if the others have confirmed
+I have to check if there's a waiting list
+I need to see if there's parking nearby
+I have to figure out if I can take the kids
+I need to check whether it's age-appropriate
+I have to see if my boss is okay with the timing
+I need to look at whether it makes sense to go
+I have to check if it's something we've done before
+I need to see if there are still spots available
+I have to figure out whether it's worth the effort
+I need to see if I need to prep anything
+I have to check if the timing is too tight
+I need to look at my upcoming commitments
+I have to see if the kids are on board
+I need to check if the event is still happening
+I have to figure out how long it takes to get there
+I need to see if the cost is reasonable
+I have to make sure I haven't promised anything else
+I need to check if the date might change
+I have to see if there are reviews first
+I need to look at whether I'd regret not going
+I have to check if there's a good reason to go
+I need to see if I'm in a better headspace by then
+I have to figure out if I can actually relax there
+I need to check if we need to bring anything
+I have to see if there's a simpler option
+I need to look at whether the kids will behave
+I have to check if it's the right time in our lives
+I need to see if we can coordinate schedules
+I have to figure out whether it overlaps with something
+I need to check if the tickets are refundable
+I have to see whether it requires booking in advance
+I need to see if I'm recovered enough from the last trip
+I have to look at whether it's an early start
+I need to check if there's something closer to home
+I have to see if I can delegate some things first
+I need to figure out if I can bring the dog
+I have to check if the dates work for both of us
+I need to see whether it's a good week for this
+I have to look at whether I have the headspace
+I need to check if I'm still interested by then
+I have to see how things are with the family
+I need to figure out if there's too much going on
+I have to check if I need to prepare anything special
+I need to see if we have a sitter for the night
+I have to look at whether the price might drop
+I need to check if I have enough days off left
+I have to see if it gets better reviews
+I need to figure out if we're still at that stage
+I have to check if the place is even open by then
+I need to see how the month shapes up
+I have to look at whether I need a visa or anything
+I need to check if it aligns with the vacation plan
+I have to see if my in-laws are visiting
+I need to figure out what the rest of the group wants
+I have to check if there's a better time of year for it
+I need to see how work stress levels are
+I have to make sure my mental health is good enough
+I need to check if there's too much travel involved
+I have to see if the timing suits everyone
+I need to look at whether it's a reasonable ask
+I have to check if we need to buy anything
+I need to see if I'm feeling outgoing that week
+I have to figure out if I'm up for the commitment
+I need to check if anyone else has already planned something
+I have to look at whether it's a good use of my weekend
+I need to see if there's a reason not to go
+I have to check if we've already talked about this
+I need to figure out if the hype is worth it
+I have to see if I'll be exhausted from the week
+I need to check if it's convenient for everyone
+I have to look at whether we're spending too much lately
+I need to see if there's less pressure later
+I have to check if there's a way to ease into it
+I need to see if my sister wants to come too
+I have to figure out what time it starts
+I need to check if there's an early bird deal
+I have to see if we can split the costs
+I need to look at whether my mother would join
+I have to check if it's still relevant to me
+I need to figure out if anyone I know will be there
+I have to see whether I can go without feeling guilty
+I need to check if I have enough notice
+I have to look at whether there are alternatives
+I need to see if there's a way to make it easier
+I have to check if there are any issues with the venue
+I need to figure out if the whole thing is worth my time
+I have to see whether I have conflicting priorities
+I need to check if I want to spend the money on it
+I have to look at whether it's something I'd actually use
+I need to see if I can go later in the year
+I have to check if I'm in the mood for something like that
+I need to see if it's the right group of people
+I have to figure out if I'll feel left out if I don't go
+I need to check if there's an online option instead
+I have to see if it's something I can do solo
+I need to look at whether I'm ready for that kind of thing
+I have to check if I've already given too much lately
+I need to see if there are other ways to be involved
+I have to figure out if I can handle the noise level
+I need to check if there's a quieter alternative
+I have to see if I'm craving social time or alone time
+I need to look at whether I'm making too many excuses
+I have to check if I'll actually regret it
+I need to see if my gut is telling me something
+I have to figure out if I actually want to go
+I need to check if I'd rather stay home honestly
+I have to see if I'm using excuses to avoid it
+I need to look at whether I'm being fair to myself
+I have to check if it's the right season for it
+I need to see if I'm overthinking this
+I have to figure out if I'll be in a better place next month
+I need to check if I just need more time
+I have to see if it matters as much as I think it does
+I need to look at whether saying no is even an option
+I have to check if skipping would hurt anyone
+I need to see if showing up halfway is an option
+I have to figure out if I can do something smaller instead
+I need to check if a rain check would work
+I have to see if this even needs a decision today
+I need to look at whether I can just wait and see
+I have to check if it's okay to be undecided
+I need to see if anything will become clearer soon
+I have to figure out if now is really the time to commit
+I need to check if the universe is giving me a sign
+I have to see if I should just flip a coin
+I need to look at whether I even know what I want
+I have to check if I need to talk to someone about this first
+I need to see if my therapist has thoughts on it
+I have to figure out if I'm scared or just uncertain
+I need to check if I'm avoiding this for a reason
+I have to see if this is a pattern for me
+I need to look at whether I always do this
+I have to check if indecision is my default
+I need to see if commitment is really the issue
+I have to figure out what I'm actually worried about
+I need to check if the stakes are as high as I think
+I have to see if I'm being too hard on myself
+I need to look at whether this is really a big deal
+I have to check if it's worth all this deliberation
+I need to see if I can let go of the need to be certain
+I have to figure out if I'm allowed to just say maybe
+I need to check if I've rested enough this week
+I have to see if I can take a personal day
+I need to look at whether I'm spreading myself too thin
+I have to check if the kids are sorted for that evening
+I need to see if my back holds up by then
+I have to figure out if we can afford to go out this month
+I need to check if the neighbours are around to help
+I have to see if the timing fits with school pickup
+I need to look at whether we can combine it with something else
+I have to check if there's a group discount
+I need to see if there's a way to make it shorter
+I have to figure out if I can dial in remotely instead
+I need to check if the location has changed
+I have to see if the agenda is worth my time
+I need to look at whether it requires me to prepare a lot
+I have to check if I need to bring anything along
+I need to see if I can invite someone to come with me
+I have to figure out if I should just cancel everything that week
+I need to check if there are childcare subsidies available
+I have to see if there's anything closer to where I live
+I need to look at whether I'm still interested in this topic
+I have to check if I'd prefer a different format
+I need to see if I can join online instead
+I have to figure out if I need to be there in person
+I need to check if there's a recording available
+I have to see if they'll send notes afterwards
+I need to look at whether it's mandatory or optional
+I have to check if I can skip this one without consequences
+I need to see if attendance is tracked
+I have to figure out if my absence would be noticed
+I need to check if someone can fill me in later
+I have to see if the topic is relevant to me right now
+I need to look at whether it's been rescheduled before
+I have to check if it's likely to run over time
+I need to see if it's worth the commute
+I have to figure out if there's parking at the venue
+I need to check if they validate parking
+I have to see if there's a closer entrance
+I need to look at whether I'll know anyone there
+I have to check if it's too formal for my taste
+I need to see if there's a casual version of the same thing
+I have to figure out if I need to dress up
+I need to check if I'd feel out of place
+I have to see if it's the right fit for me
+I need to look at whether I'm the right person for this
+I have to check if someone else would benefit more
+I need to see if I'm being asked because I'm convenient
+I have to figure out if this aligns with my goals
+I need to check if I actually care about the outcome
+I have to see if I'm doing this for the right reasons
+I need to look at whether I'd regret saying yes later
+I have to check if I'm feeling pressured
+I need to see if I genuinely want to or feel like I should
+I have to figure out if I can be honest about it
+I need to check if there's a polite way to say no
+I have to see if it's okay to ask for more time
+I need to look at whether the deadline for deciding is flexible
+I have to check if I can get an extension on the RSVP
+I need to see if they need a firm answer today
+I have to figure out if there are other people they can ask
+I need to check if I'm the only option
+I have to see if declining would leave them in a bind
+I need to look at whether my help is actually needed
+I have to check if someone more qualified should do it
+I need to see if I have the skills they're looking for
+I have to figure out if I'd be winging it
+I need to check if I'd need to learn something new for this
+I have to see if I have time to prepare properly
+I need to look at whether I can do a good job given everything
+I have to check if half-hearted participation is worse than none
+I need to see if I'm setting myself up to disappoint people
+I have to figure out if I can manage expectations better
+I need to check if I should be upfront about my uncertainty
+I have to see if honesty is the better approach here
+I need to look at whether being vague is helping anyone
+I have to check if the other person is waiting on me
+I need to see if my indecision is affecting their plans
+I have to figure out if I owe them an answer by now
+I need to check if I'm being fair to them
+I have to see if I should just make a call
+I need to look at whether any option is genuinely better
+I have to check if I'm going in circles
+I need to see if more thinking is actually useful
+I have to figure out if the information I'm waiting for will change anything
+I need to check if there's anything left to learn about this
+I have to see if I've been overthinking it this whole time
+I need to look at whether my gut already knows
+I have to check if I should just trust myself
+I need to see if waiting longer is really helping
+I have to figure out if I'm delaying to avoid being wrong
+I need to check if fear of commitment is the issue
+I have to see if this is just hard for me in general
+I need to look at whether I struggle with this kind of decision
+I have to check if it's a pattern across areas of my life
+I need to see if there's something bigger going on
+I have to figure out if this is about more than just this one thing
+I need to check if I need to address my tendency to hedge
+I have to see if always saying maybe is working for me
+I need to look at whether I'm happy with how I handle these things
+I have to check if I want to be someone who decides faster
+I need to see if I'd feel better about myself if I just committed
+I have to figure out if the answer has been yes all along
+I need to check if the answer has been no all along
+I have to see if I was just hoping someone would decide for me
+I need to look at whether I can take responsibility for this one
+I have to check if it's actually my call to make
+I need to see if there's someone else who should decide
+I have to figure out if I've been waiting for permission
+I need to check if permission is even required
+I have to see if I can just go ahead and do it
+I need to look at whether I've been making it more complicated than it is
+I have to check if the simple answer is the right one
+I need to see if I've been looking for a reason to say yes
+I have to figure out if I've been looking for a reason to say no
+I need to check if I already know what I want
+I have to see if the decision is already made
+I need to look at whether my gut is telling me something I keep ignoring
+I have to check if I'm done deliberating
+I need to see if I'm ready to commit
+I have to figure out if this is the moment I stop saying maybe
+I need to check if the timing finally feels right
+I have to see if I can live with whatever I choose
+I need to look at whether either outcome is really that bad
+I have to check if I'm catastrophising
+I need to see if I'm being realistic about the risks
+I have to figure out if the worst case is actually survivable
+I need to check if I'd cope if things went sideways
+I have to see if I'm resilient enough to handle the uncertainty
+I need to look at whether I've handled harder decisions before
+I have to check if I came through those okay
+I need to see if I can trust myself to figure it out as I go
+I have to figure out if perfectionism is getting in the way
+I need to check if done is better than perfect here
+I have to see if I need to let go of needing certainty
+I need to look at whether some uncertainty is just part of this
+I have to check if I can move forward without all the answers
+I need to see if I'm willing to take a small leap
+I have to figure out if maybe is just where I live
+I need to check if that's actually okay
+I have to see if maybe is a valid place to be
+I need to look at whether the world can handle my indecision
+I have to check if I'm allowed to not know yet
+I need to see if that's enough for now
+I have to figure out if maybe is just my honest answer
+I need to check if maybe is all I've got right now
+I have to see if maybe will have to do
+I need to check if I can just leave the door open
+I have to figure out if I'm asking too much of myself
+I need to see if taking a break from deciding helps
+I have to check if there's a deadline I missed
+I need to look at whether I've been fair to the other person
+I have to see if they need me to be more decisive
+I need to figure out if my maybe is affecting the group
+I have to check if I'm the holdup
+I need to see if I should just pick something and own it
+I have to look at whether a wrong decision beats no decision
+I need to check if paralysis is the real problem
+I have to see if any option is clearly worse than the others
+I need to figure out if I can live with regret
+I have to check if regret is even likely here
+I need to see if the stakes are low enough to just try
+I have to look at whether this will matter in five years
+I need to check if future me would be proud of how I handled this
+I have to see if I'm being the person I want to be
+I need to figure out if this is one of those moments
+I have to check if I should stop waiting for the right feeling
+I need to see if the right feeling might come after I decide
+I have to look at whether action creates clarity
+I need to check if I'm ready to find out
+I have to see if I can just say yes and figure out the rest
+I have to see if I can just say no and be at peace with it
